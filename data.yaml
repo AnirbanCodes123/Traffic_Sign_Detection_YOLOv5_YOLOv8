@@ -1,4 +1,4 @@
-train: F:\Deep Learning Projects\GPR Work\images\train
-val: F:\Deep Learning Projects\GPR Work\images\test
+train: /content/drive/MyDrive/Traffic_Sign_YOLOv5/images/train
+val: /content/drive/MyDrive/Traffic_Sign_YOLOv5/images/test
 nc: 4
 names: ['prohibitory','danger','mandatory','other']
