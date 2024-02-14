@@ -1,4 +1,0 @@
-train: /content/drive/MyDrive/Traffic_Sign_YOLOv5/images/train
-val: /content/drive/MyDrive/Traffic_Sign_YOLOv5/images/test
-nc: 4
-names: ['prohibitory','danger','mandatory','other']
