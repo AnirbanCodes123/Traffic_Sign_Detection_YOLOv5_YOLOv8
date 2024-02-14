@@ -1,0 +1,4 @@
+train: F:\Deep Learning Projects\GPR Work\images\train
+val: F:\Deep Learning Projects\GPR Work\images\test
+nc: 4
+names: ['prohibitory','danger','mandatory','other']
